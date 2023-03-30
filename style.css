@@ -1,0 +1,44 @@
+.my-btn{
+    display: block;
+}
+
+.my-container{
+    display: flex;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.my-btn{
+    margin: 0 auto;
+    margin-top: 2em;
+}
+
+.my-btn-copy{
+    display: block;
+}
+
+.my-img{
+    margin: 0 auto;
+}
+
+#text-field{
+    font-size: 2em;
+}
+
+.right{
+    background-color: #008700;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+    height: 100vh;
+}
